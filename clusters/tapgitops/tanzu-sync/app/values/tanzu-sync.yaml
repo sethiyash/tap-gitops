@@ -1,0 +1,7 @@
+---
+git:
+  url: git@gitlab.eng.vmware.com:ysethiya/tap-gitops.git
+  ref: origin/main
+  sub_path: clusters/tapgitops/cluster-config
+tap_package_repository:
+  oci_repository: harbor-repo.vmware.com/packaging-and-installation/ys-tap-gitops/tap-packages

@@ -1,0 +1,3 @@
+tap_install:
+  package_repository:
+    oci_repository: harbor-repo.vmware.com/packaging-and-installation/ys-tap-gitops/tap-packages
