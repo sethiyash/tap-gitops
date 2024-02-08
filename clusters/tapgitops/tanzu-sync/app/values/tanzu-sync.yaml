@@ -1,6 +1,6 @@
 ---
 git:
-  url: git@github.com:sethiyash/tap-gitops.git
+  url: https://github.com/sethiyash/tap-gitops
   ref: origin/main
   sub_path: clusters/tapgitops/cluster-config
 tap_package_repository:

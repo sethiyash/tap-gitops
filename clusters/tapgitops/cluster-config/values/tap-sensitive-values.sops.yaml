@@ -2,9 +2,9 @@ tap_install:
     sensitive_values:
         shared:
             image_registry:
-                project_path: ENC[AES256_GCM,data:EQwRsWak3yp4boUgU3PJUQWaTEPBpQ7+LqFs6SFGg1Y0u01QK+fdg4esJWKE5IS32lhisURI9d9W55te0M61qoEkK98WXPBxXASTdg==,iv:ATEgyfhc3767u7UD0H2jyacvbfJchJACks0yKHX7rzU=,tag:cf/u6mSP+x50KLTALrHZ/w==,type:str]
-                username: ENC[AES256_GCM,data:8UfAuO0lFbU=,iv:3cnCXxa1WD5mB48FAEEf1TSHdBmqSwltPYc8dPs0uGA=,tag:U12UQAhS8apko+jJuN1Vwg==,type:str]
-                password: ENC[AES256_GCM,data:hyiWtbG/OTQklSNKboc=,iv:bVVk/kg6VbZdMTqt/hSM3k6ZS1zQLcLaNe7kHVXWh80=,tag:qzYPui/iXXVl/wu4vI54BA==,type:str]
+                project_path: ENC[AES256_GCM,data:GokP995E8jzJWwF5BBx5XsHPMMRUrzcj/nod0ToD+JMENjn6+YEJseS5IuB41jZrLDRm/A==,iv:dI5LMunLcnlCvty1avgcs2/IAcuinkZGhNki9UXnH2A=,tag:9dS2c43vA8h87a0GeG5gRQ==,type:str]
+                username: ENC[AES256_GCM,data:2GgbPFARRBk=,iv:Aw8EnC/QSBnPDyHe5m09Ny5GNzJwwPb3t3tMLugZP4A=,tag:S2sM9gX3NHFmNiRG6gUSvA==,type:str]
+                password: ENC[AES256_GCM,data:mddqTGfL7YntazxWB2s=,iv:zw2zZGGJrpTU2LBIgNwXzh25xROW7jsOhvCS/BjznBM=,tag:bOSRtFCNnxCtT1QC2vn6qg==,type:str]
 sops:
     kms: []
     gcp_kms: []
@@ -20,8 +20,8 @@ sops:
             MjBCTUpsRmpXWkJPM21sUDNndDROT0UKgxsNYitBSjUCR+C+mMjZSbu+DYetKsPc
             Lxy6qrb88h/yqF6OX2mFew7L88Cp5jVu5bC6HsrQq7PbpOzfi1AE7w==
             -----END AGE ENCRYPTED FILE-----
-    lastmodified: "2024-02-06T07:31:09Z"
-    mac: ENC[AES256_GCM,data:L3H441dYjMKCGzBjUiKPPm+/DZJK9nUJoOKMQ5N3RR3YDeDdZC7UOSUMnvuJNcqoFk2eOQQj7vcNC/nPia+sf5m3LJi4tnPAxM3Qdz1x7go05C9VEpr8hhmZMxo4bxO7YfNF0ylBn7XLBsK1bEh50acci61FkoGZw/IsAO2wzmo=,iv:onjn9Z6pCgouP1uzn0XbjwNEPK+EUZfJqrCiuuDsaU4=,tag:pkzEhHhdvjYSRRrKeaUKSw==,type:str]
+    lastmodified: "2024-02-08T11:17:38Z"
+    mac: ENC[AES256_GCM,data:ZhChuhdg5xE0Pe57sgPrIii+mRP+/J+w+SH/aZDwoX6FdXztBliGYyZEg28bC/rPvJfAwdgzDtebQ3jCBbaPYHbQa09Ybj2Fzx8ax5XHCLu0DgerOWkFSYNVkGcXwcfaj+cjouVkue7fC0NPh8K+LtSn5Jb8qAJd/FLao060kno=,iv:TZ4tf5T+XqfUCarwJuyNwkwGQhW57R0mIcyUFxH4aRA=,tag:CL0koCOkyhxivZMRtg0eOA==,type:str]
     pgp: []
     unencrypted_suffix: _unencrypted
     version: 3.8.1
